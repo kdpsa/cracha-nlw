@@ -19,7 +19,7 @@ body {
 }
 
 main {
-    background: url("img/Mobile.png");
+    background: url("./img/Mobile.png");
     width: 375px;
     height: 812px;
 }
